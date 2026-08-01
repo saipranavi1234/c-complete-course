@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-
-    // Printing text to screen
-    printf("Hello World!\n");
+    printf("Hello, World!\n");
+    printf("Welcome to C Programming.\n");
 
     return 0;
 }
